@@ -2,6 +2,8 @@
 
 Welcome to Metadata Bot, a Discord bot for image metadata analysis.
 
+To add Metadata Bot to your Discord server, [Click here](https://discord.com/oauth2/authorize?client_id=1066907304131309568&permissions=2147492864&scope=applications.commands%20bot).
+
 ## Contents
 
 - [Privacy Policy](./PRIVACY_POLICY.md)
