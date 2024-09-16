@@ -17,6 +17,10 @@ These documents are provided for:
 2. User transparency
 3. Legal compliance
 
+## Updates
+- 09/16/2024: Improved formatting for JSON metadata.
+- 09/15/2024: Bot can now be added as a server or user app, allowing usage everywhere.
+
 ## Contact
 
 For questions or concerns contact gryphon4367 on discord.
