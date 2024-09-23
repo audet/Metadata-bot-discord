@@ -1,6 +1,6 @@
 # Terms of Service for Metadata Bot
 
-Last updated: [Current Date]
+Last updated: 22/09/2024
 
 ## 1. Acceptance of Terms
 
@@ -12,7 +12,7 @@ Metadata Bot is a Discord bot that provides PNG image metadata by reacting using
 
 ## 3. Use of the Bot
 
-- Discord's Terms:You agree to comply with Discord's [Terms of Service](https://discord.com/terms) in addition to these Terms.
+- Discord's Terms: You agree to comply with Discord's [Terms of Service](https://discord.com/terms) in addition to these Terms.
 
 ## 4. Intellectual Property
 
@@ -45,7 +45,3 @@ We reserve the right to modify or discontinue the Bot at any time without notice
 ## 10. Governing Law
 
 These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions.
-
-## 11. Contact Information
-
-If you have any questions about these Terms, please contact gryphon4367 on discord.

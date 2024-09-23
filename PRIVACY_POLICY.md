@@ -1,6 +1,6 @@
 # Privacy Policy for Metadata Bot
 
-Last updated: 24/06/2024
+Last updated: 22/09/2024
 
 ## 1. Introduction
 

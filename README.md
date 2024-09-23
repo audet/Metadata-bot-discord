@@ -1,6 +1,6 @@
-# Metadata Bot - Policy Documents
+# Metadata Bot - Privacy Policy & ToS
 
-Welcome to Metadata Bot, a Discord bot for image metadata analysis.
+Welcome to Metadata Bot, a Discord bot for reading metadata hidden in images.
 
 To add Metadata Bot to your Discord server, [Click here](https://discord.com/oauth2/authorize?client_id=1066907304131309568&permissions=2147492864&scope=applications.commands%20bot).
 
@@ -18,6 +18,7 @@ These documents are provided for:
 3. Legal compliance
 
 ## Updates
+- 09/22/2024: Added Help Command
 - 09/16/2024: Improved formatting for JSON metadata.
 - 09/15/2024: Bot can now be added as a server or user app, allowing usage everywhere.
 
